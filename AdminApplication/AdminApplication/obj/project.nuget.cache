@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M57fHoG5G0KOmiejHfz6vFYm3qhKEcrcmdygYdFt/sCuFkTvbY2jCvFTrbnyt64qNQuT+0sLLPSU8GrEF/FixQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\AdminApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kater\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\kater\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\kater\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kater\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\kater\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\kater\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

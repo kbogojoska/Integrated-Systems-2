@@ -1,0 +1,15 @@
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.deps.json
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.AssemblyReference.cache
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfoInputs.cache
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.AssemblyInfo.cs
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Re.5AE75352.Up2Date
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.dll
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\refint\EShop.Repository.dll
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\EShop.Repository.pdb
+C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Repository\obj\Debug\net8.0\ref\EShop.Repository.dll
