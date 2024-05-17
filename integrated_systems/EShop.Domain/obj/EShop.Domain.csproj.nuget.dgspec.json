@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {}
+    "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
+    "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
         "projectName": "EShop.Domain",
-        "projectPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
+        "projectPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj",
         "packagesPath": "C:\\Users\\kater\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kater\\AppData\\Roaming\\NuGet\\NuGet.Config",

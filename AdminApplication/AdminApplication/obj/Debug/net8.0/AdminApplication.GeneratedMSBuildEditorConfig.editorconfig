@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdminApplication
 build_property.RootNamespace = AdminApplication
-build_property.ProjectDir = C:\Users\kater\Downloads\Lab5A\Lab5A\AdminApplication\AdminApplication\
+build_property.ProjectDir = C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\AdminApplication\AdminApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kater\Downloads\Lab5A\Lab5A\AdminApplication\AdminApplication
+build_property.MSBuildProjectDirectory = C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\AdminApplication\AdminApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Concert/Index.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Concert/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Home/Index.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Home/Privacy.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Order/Details.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Order/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Order/Index.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Order/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Shared/Error.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/_ViewImports.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/_ViewStart.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kater/Downloads/Lab5A/Lab5A/AdminApplication/AdminApplication/Views/Shared/_Layout.cshtml]
+[C:/Users/kater/Desktop/Faks/6_semestar/IS/Integrated-Systems-2/AdminApplication/AdminApplication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3bstmdjyjw

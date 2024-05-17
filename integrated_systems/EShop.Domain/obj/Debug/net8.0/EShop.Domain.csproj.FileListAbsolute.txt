@@ -10,3 +10,16 @@ C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\n
 C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
 C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
 C:\Users\kater\Downloads\Lab5A\Lab5A\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.sourcelink.json
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\kater\Desktop\Faks\6_semestar\IS\Integrated-Systems-2\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll

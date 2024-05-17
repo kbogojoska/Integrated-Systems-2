@@ -33,6 +33,7 @@ namespace EShop.Repository.Implementation
                 .Include(z => z.ProductInOrders)
                 .Include(z => z.Owner)
                 .Include("ProductInOrders.OrderedProduct")
+                .Include("ProductInOrders.OrderedProduct.Concert")
                 .SingleOrDefaultAsync(z => z.Id == id.Id).Result;
         }
     }

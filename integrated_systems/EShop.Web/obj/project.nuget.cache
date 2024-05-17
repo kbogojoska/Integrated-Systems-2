@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T4+qpjHFwk4zLWrWT8wcckgBswaSnGyW7REFJ8dYlLLmpx4UM4ptZs4pCSXDUA9K7QwRuV5JgtKZ7C/d9lgz/A==",
+  "dgSpecHash": "gNsU8euk02drArRODdWXPzBNDPBXdA1MprqZqpqfjMjTVD7+t0s5MdHh3O9/GpC9FChsfUraXeUjbc5nYHf7/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
+  "projectFilePath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Web\\EShop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kater\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kater\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\AdminApplication.csproj": {}
+    "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\AdminApplication\\AdminApplication\\AdminApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\AdminApplication.csproj": {
+    "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\AdminApplication\\AdminApplication\\AdminApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\AdminApplication.csproj",
+        "projectUniqueName": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\AdminApplication\\AdminApplication\\AdminApplication.csproj",
         "projectName": "AdminApplication",
-        "projectPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\AdminApplication.csproj",
+        "projectPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\AdminApplication\\AdminApplication\\AdminApplication.csproj",
         "packagesPath": "C:\\Users\\kater\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\AdminApplication\\AdminApplication\\obj\\",
+        "outputPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\AdminApplication\\AdminApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kater\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "ExcelDataReader": {
               "target": "Package",
               "version": "[3.6.0, )"
+            },
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1749, )"
             },
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",

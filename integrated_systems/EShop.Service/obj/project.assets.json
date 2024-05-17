@@ -3173,11 +3173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+      "projectUniqueName": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
       "projectName": "EShop.Service",
-      "projectPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
+      "projectPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Service\\EShop.Service.csproj",
       "packagesPath": "C:\\Users\\kater\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Service\\obj\\",
+      "outputPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kater\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3194,11 +3194,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
+            "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Domain\\EShop.Domain.csproj"
             },
-            "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
-              "projectPath": "C:\\Users\\kater\\Downloads\\Lab5A\\Lab5A\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
+            "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj": {
+              "projectPath": "C:\\Users\\kater\\Desktop\\Faks\\6_semestar\\IS\\Integrated-Systems-2\\integrated_systems\\EShop.Repository\\EShop.Repository.csproj"
             }
           }
         }
